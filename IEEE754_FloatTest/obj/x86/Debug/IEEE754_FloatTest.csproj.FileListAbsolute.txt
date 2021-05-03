@@ -1,0 +1,10 @@
+D:\VS_Project\IEEE754_FloatTest\IEEE754_FloatTest\bin\Debug\IEEE754_FloatTest.exe
+D:\VS_Project\IEEE754_FloatTest\IEEE754_FloatTest\bin\Debug\IEEE754_FloatTest.pdb
+D:\VS_Project\IEEE754_FloatTest\IEEE754_FloatTest\obj\x86\Debug\IEEE754_FloatTest.exe
+D:\VS_Project\IEEE754_FloatTest\IEEE754_FloatTest\obj\x86\Debug\IEEE754_FloatTest.pdb
+D:\VS_Project\IEEE754_FloatTest\IEEE754_FloatTest\obj\x86\Debug\IEEE754_FloatTest.csprojResolveAssemblyReference.cache
+C:\D\VS_Workspace_Tools\IEEE754_FloatTest\IEEE754_FloatTest\obj\x86\Debug\IEEE754_FloatTest.exe
+C:\D\VS_Workspace_Tools\IEEE754_FloatTest\IEEE754_FloatTest\obj\x86\Debug\IEEE754_FloatTest.pdb
+C:\D\VS_Workspace_Tools\IEEE754_FloatTest\IEEE754_FloatTest\bin\Debug\IEEE754_FloatTest.exe
+C:\D\VS_Workspace_Tools\IEEE754_FloatTest\IEEE754_FloatTest\bin\Debug\IEEE754_FloatTest.pdb
+C:\D\VS_Workspace_Tools\IEEE754_FloatTest\IEEE754_FloatTest\obj\x86\Debug\IEEE754_FloatTest.csprojResolveAssemblyReference.cache
